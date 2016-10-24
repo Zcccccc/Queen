@@ -1,4 +1,4 @@
-# queen-jewlery
+# queen-jelwery
 
 > A Vue.js project
 
